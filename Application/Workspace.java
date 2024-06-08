@@ -30,7 +30,7 @@ public class Workspace {
 
             System.out.println("PLAYERS: ");
             for (FIFADataBase x : playersDataBase) {
-                System.out.println(x);
+                System.out.println(x.toString());
             }
         } catch (IOException x) {
             System.out.println("Error: " + x.getMessage());
