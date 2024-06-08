@@ -1,0 +1,20 @@
+Player Id,long_name,overall,club
+158023,Lionel Andrés Messi Cuccittini,94,FC Barcelona
+20801,Cristiano Ronaldo dos Santos Aveiro,93,Juventus
+190871,Neymar da Silva Santos Junior,92,Paris Saint-Germain
+200389,Jan Oblak,91,Atlético Madrid
+183277,Eden Hazard,91,Real Madrid
+192985,Kevin De Bruyne,91,Manchester City
+192448,Marc-André ter Stegen,90,FC Barcelona
+203376,Virgil van Dijk,90,Liverpool
+177003,Luka Modrić,90,Real Madrid
+209331,Mohamed  Salah Ghaly,90,Liverpool
+231747,Kylian Mbappé,89,Paris Saint-Germain
+201024,Kalidou Koulibaly,89,Napoli
+202126,Harry Kane,89,Tottenham Hotspur
+212831,Alisson Ramses Becker,89,Liverpool
+193080,David De Gea Quintana,89,Manchester United
+215914,N'Golo Kanté,89,Chelsea
+138956,Giorgio Chiellini,89,Juventus
+153079,Sergio Leonel Agüero del Castillo,89,Manchester City
+155862,Sergio Ramos García,89,Real Madrid
